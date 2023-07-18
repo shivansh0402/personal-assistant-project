@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<ctime>
+
